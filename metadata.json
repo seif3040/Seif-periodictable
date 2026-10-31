@@ -1,0 +1,6 @@
+{
+  "name": "The Living Periodic Table",
+  "description": "An interactive, audio-reactive 3D periodic table and atomic orbital observatory featuring all 118 chemical elements, emission spectra, and live PubChem chemical data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
